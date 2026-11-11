@@ -40,44 +40,44 @@ Atomic Heart is Mundfish's Soviet retro-futuristic shooter — Facility 3826, th
 ## 🔥 Features
 
 ### Player & Survival
-- **God Mode / Infinite Health** — Take no damage [citation:1][citation:5].
-- **Edit Max Health** — Set exact max HP [citation:1][citation:5].
-- **Infinite Energy** — Energy never depletes [citation:1][citation:5].
-- **Infinite Air** — Breathe underwater forever [citation:4].
-- **Infinite Stamina** — Sprint forever [citation:4].
-- **Stealth Mode / Undetected** — Enemies can't detect you [citation:1][citation:5].
+- **God Mode / Infinite Health** — Take no damage.
+- **Edit Max Health** — Set exact max HP.
+- **Infinite Energy** — Energy never depletes.
+- **Infinite Air** — Breathe underwater forever.
+- **Infinite Stamina** — Sprint forever.
+- **Stealth Mode / Undetected** — Enemies can't detect you.
 
 ### Combat & Weapons
-- **Infinite Ammo** — Never run out [citation:1][citation:3][citation:5].
-- **No Reload** — Magazine never empties [citation:1][citation:5].
-- **No Recoil** — Zero recoil [citation:1][citation:5].
-- **Infinite Weapon Module Energy** — Modules never deplete [citation:1][citation:5].
-- **Skills Instant Cooldown** — Abilities recharge instantly [citation:1][citation:5].
-- **One Hit Kill / Super Damage** — Kill any enemy instantly [citation:1][citation:3][citation:5].
-- **Damage Multiplier** — Boost damage output [citation:1][citation:2][citation:5].
-- **Defense Multiplier** — Boost defense [citation:1][citation:5].
+- **Infinite Ammo** — Never run out.
+- **No Reload** — Magazine never empties.
+- **No Recoil** — Zero recoil.
+- **Infinite Weapon Module Energy** — Modules never deplete.
+- **Skills Instant Cooldown** — Abilities recharge instantly.
+- **One Hit Kill / Super Damage** — Kill any enemy instantly.
+- **Damage Multiplier** — Boost damage output.
+- **Defense Multiplier** — Boost defense.
 
 ### Movement & World
-- **Fly Mode** — Free flight [citation:3][citation:4].
-- **No Clip** — Pass through walls [citation:3][citation:4].
-- **Bunny Hop** — Auto-bhop [citation:3].
-- **Set Player Speed** — Move faster [citation:1][citation:5].
-- **Set Jump Height** — Jump higher [citation:1][citation:5].
-- **Set Game Speed** — Slow down or speed up [citation:1][citation:5].
+- **Fly Mode** — Free flight.
+- **No Clip** — Pass through walls.
+- **Bunny Hop** — Auto-bhop.
+- **Set Player Speed** — Move faster.
+- **Set Jump Height** — Jump higher.
+- **Set Game Speed** — Slow down or speed up.
 
 ### Economy & Crafting
-- **Edit Metal Parts** — Set exact amount [citation:1][citation:5].
-- **Edit Synthetic Materials** — Set exact amount [citation:1][citation:5].
-- **Edit Biological Materials** — Set exact amount [citation:1][citation:5].
-- **Edit Superconductor** — Set exact amount [citation:1][citation:5].
-- **Edit Chemicals** — Set exact amount [citation:1][citation:5].
-- **Edit Microelectronics** — Set exact amount [citation:1][citation:5].
-- **Edit Energy Modules** — Set exact amount [citation:1][citation:5].
-- **Edit Neuro Modules** — Set exact amount [citation:1][citation:5].
-- **Edit Neuropolymer** — Set exact amount [citation:1][citation:5].
-- **Unlock All Crafting & Upgrade Blueprints** — Access every recipe [citation:1][citation:5].
-- **No Crafting Requirements** — Craft freely [citation:1][citation:5].
-- **Consumables Won't Decrease** — Items never deplete [citation:1][citation:5].
+- **Edit Metal Parts** — Set exact amount.
+- **Edit Synthetic Materials** — Set exact amount.
+- **Edit Biological Materials** — Set exact amount.
+- **Edit Superconductor** — Set exact amount.
+- **Edit Chemicals** — Set exact amount.
+- **Edit Microelectronics** — Set exact amount.
+- **Edit Energy Modules** — Set exact amount.
+- **Edit Neuro Modules** — Set exact amount.
+- **Edit Neuropolymer** — Set exact amount.
+- **Unlock All Crafting & Upgrade Blueprints** — Access every recipe.
+- **No Crafting Requirements** — Craft freely.
+- **Consumables Won't Decrease** — Items never deplete.
 
 ### Utility
 - **Config System** — Save/load unlimited profiles. JSON format.
